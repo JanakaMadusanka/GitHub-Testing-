@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    margin: 0;
+}
+
+.container{
+    text-align: center;
+}
+
+.input-container{
+    margin-top: 20px;
+}
